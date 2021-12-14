@@ -24,4 +24,4 @@ cd /home/user/Bureau/
 chmod +x VI.sh 
 
 ./VI.sh
-
+ 

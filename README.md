@@ -1,5 +1,5 @@
 # VM_R102_Installtion
-Script permettant d'installer rapidement la VM R102 en TP/SAE Réseau (activation de l'interface eth0n, dhclient + supression des VM installées auparavant). 
+Script permettant d'installer rapidement la VM R102 en TP/SAE Réseau (activation de l'interface eth0, dhclient + supression des VMs installées auparavant). 
 
 (Le script a été fait sur Windows, donc il est necessaire de changer les droits d'éxécution dessus). A copier-coller au préalable dans le terminal :  
 
